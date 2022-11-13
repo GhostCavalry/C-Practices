@@ -1,5 +1,4 @@
 # C-Practices
-Basic examples with C/C++
 
 You can find the basic examples here which are developed with C/C++
 
